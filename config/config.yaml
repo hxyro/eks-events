@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+    name: events-config
+    namespace: default
+data:
+  SLACK_WEBHOOK_UEL: ""
