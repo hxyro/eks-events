@@ -1,1 +1,1 @@
-# eks-node-scaling-events
+# eks-events
